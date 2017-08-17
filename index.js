@@ -2,6 +2,6 @@
 
 import {NativeModules} from "react-native";
 
-const {PDF2JPGsManager} = NativeModules;
+const {RNPDF2JPGsManager} = NativeModules;
 
-module.exports = PDF2JPGsManager;
+module.exports = RNPDF2JPGsManager;
